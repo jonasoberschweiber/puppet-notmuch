@@ -3,7 +3,7 @@
 # Examples
 #
 #   include notmuch
-class mutt {
+class notmuch {
     include homebrew
 
     package { 'notmuch': }
